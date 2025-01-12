@@ -97,3 +97,6 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+
+contact-post: https://docs.google.com/forms/d/e/1FAIpQLSdCSG_gnWsYpYDdgepA9ZamJerMLjPLuZuGhHrJEJ5eMLnsLA
+contact-read: https://docs.google.com/spreadsheets/d/1FSYzgt4dpyRj4Nx7cDdKrDYks2-oiJiP0sLSpnckhZk
