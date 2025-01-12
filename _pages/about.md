@@ -35,45 +35,61 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
+{% if site.data.positions %}
 
 <div class="jumbotron">
-  <h3>Grants</h3>
+  <h3>Professional Experience</h3>
   <ul>
-    {% for grant in site.data.grants %}
-      <li>{{ grant.name }}</li>
+    {% for position in site.data.positions %}
+      <li>{{ position.title }}, {{ position.employer }} {{position.client}} ({{ position.location }}, {{ position.year }})</li>
     {% endfor %}
   </ul>
 </div>
 {% endif %}
 
-{% if site.data.awards %}
+{% if site.data.visitor %}
 
 <div class="jumbotron">
-  <h3>Awards</h3>
+  <h3>Visiting Positions</h3>
   <ul>
-    {% for award in site.data.awards %}
-      <li>{{ award.name | replace: "-","&#8211;" }}</li>
+    {% for position in site.data.visitor %}
+      <li>{{ position.title }}, <em> {{position.subject}} </em>, {{ position.host }}, {{position.location}} ({{ position.year }})</li>
     {% endfor %}
   </ul>
 </div>
 {% endif %}
 
-{% if site.data.people %}
+{% if site.data.member %}
 
 <div class="jumbotron">
-  <h3>Students and Mentoring</h3>
+  <h3>Membership</h3>
   <ul>
-    {% for student in site.data.people %}
-      <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
+    {% for member in site.data.member %}
+      <li>{{ member.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% if site.data.reviewer %}
+
+<div class="jumbotron">
+  <h3>Reviewer</h3>
+  <ul>
+    {% for journal in site.data.reviewer %}
+      <li>{{ journal.name }}</li>
     {% endfor %}
   </ul>
 </div>
 {% endif %}
 
 <div class="jumbotron">
-  <h4>Sponsors</h4>
+  <h3>Sponsors</h3>
+
+  Over the years, my work has neem supported by several National and International Public, Non-Profit and Private Organizations.
+  
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
   {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
 </div>
+
