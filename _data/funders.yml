@@ -1,8 +1,12 @@
-- image: NSF.png
-  url: https://www.nsf.gov/
-- image: doe_logo.png
-  url: https://www.energy.gov/
+- image: noaa.png
+  url: https://www.noaa.gov/
+- image: NASA.png
+  url: https://www.nasa.gov/
 - image: onr_logo.png
   url: https://www.onr.navy.mil/
-- image: NIH-logo.png
-  url: https://www.nih.gov/
+- image: BMWK.png
+  url: https://www.bmwk.de/
+- image: logo-ec.svg
+  url: https://ec.europa.eu/regional_policy/funding/erdf_en
+- image: gates.svg
+  url: https://www.gatesfoundation.org/
