@@ -1,17 +1,23 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+- name: Stelios Flampouris
+  photo: Headshot_stelios.jpeg
+  info: Scientist and Executive in Earth Sciences
+  email: stelios@flampouris.com 
+  github: https://github.com/flampouris 
+  linkedin: https://www.linkedin.com/in/flampouris
+  scholar: https://scholar.google.com/citations?user=wzU8V1cAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "Ph.D. Oceanography, University of Hamburg (2010) ",
+      "M.Sc. Coastal Engineering, University of Kiel (2006)",
+      "M.Sc. Numerical Modeling, University of the Aegean (2004)",
+      "B.Sc. Marine Sciences, University of the Aegean (2003)"
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    [
+    "Ph.D. Oceanography, Hamburg (2010) ", 
+    "M.Sc. Coastal Engineering, Kiel (2006)",
+    "M.Sc. Numerical Modeling, Aegean (2004)",
+    "B.Sc. Marine Sciences, Aegean (2003)"]
