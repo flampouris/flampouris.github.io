@@ -1,5 +1,5 @@
 # Site settings
-title: Stelios Flampouris
+title: Stelios Flampouris, Ph.D.
 email: stelios@flampouris.com
 description: Personal webpage of Dr. Stelios (Stylianos) Flampouris 
 baseurl: ""
@@ -29,10 +29,8 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: publications
-  - name: products
   - name: experience
-  - name: blogs
+  - name: publications
   - name: contact 
 #  - name: research
 #  - name: software
