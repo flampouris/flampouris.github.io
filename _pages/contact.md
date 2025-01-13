@@ -6,10 +6,11 @@ permalink: /contact
 
 ---
 
-### **Let's talk!**
+### **Let's connect!**
 
-I believe that transforming weather and climate solutions is essential for creating a sustainable future. As a Chief Scientist with 20+ years of experience, I’m driven to help organizations navigate climate risks, capitalize on opportunities, and deliver business value through climate expertise. Let’s connect and discuss how we can collaborate to advance climate science and build a more sustainable future.
+I believe that transforming weather and climate solutions is essential for creating a sustainable future. As leading scientist with 20+ years of experience, I’m driven to help organizations navigate climate risks, capitalize on opportunities, and deliver business value through scientific and operational merit. 
 
+Let's talk for scientific collaborations, consulting, speaking engagements!
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -57,9 +58,10 @@ I believe that transforming weather and climate solutions is essential for creat
         <label for="Phone">Phone Number</label>
         <input type="text" id="Phone" name="entry.1166974658" placeholder="Your phone number...">
         <label for="meassage*">Message</label>
-        <textarea id="Message" name="entry.839337160" placeholder="Let us know your thoughts..." style="height:200px"  required></textarea>
+        <textarea id="Message" name="entry.839337160" placeholder="Let us know your thoughts..." style="height:100px"  required></textarea>
         <input type="submit" value="Submit">
       </form>
     </div>
     </body>
 </head>
+
