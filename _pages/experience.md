@@ -2,7 +2,7 @@
 title: "experience"
 layout: gridlay
 sitemap: false
-permalink: /expertise
+permalink: /experience
 ---
 
 <style>
@@ -59,4 +59,4 @@ I'm excited to continue my journey at the forefront of weather and climate innov
 
 </div>
 
-Connect with me to explore collaborations, discuss your climate challenges, or invite me to speak at your next event.
+[Connect](/contact) with me to explore collaborations, discuss your wether and climate challenges, or invite me to your next event.
