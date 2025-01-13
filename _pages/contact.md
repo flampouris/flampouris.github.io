@@ -1,12 +1,14 @@
 ---
 title: "Contact"
-layout: gridlay
+layout: homelay
 sitemap: false
 permalink: /contact
 
 ---
 
-### **Let's disscuss your weather and climate challenges**
+### **Let's talk!**
+
+I believe that transforming weather and climate solutions is essential for creating a sustainable future. As a Chief Scientist with 20+ years of experience, I’m driven to help organizations navigate climate risks, capitalize on opportunities, and deliver business value through climate expertise. Let’s connect and discuss how we can collaborate to advance climate science and build a more sustainable future.
 
 
 <head>
@@ -42,16 +44,16 @@ permalink: /contact
     }
     </style>
     <body>
-    <!-- <h3> Contact Form </h3> -->
     <div class="container">
-      <form action="https://docs.google.com/forms/d/e/1FAIpQLSdCSG_gnWsYpYDdgepA9ZamJerMLjPLuZuGhHrJEJ5eMLnsLA/formResponse" method="post">
-        <label for="Name*">Name</label>
+      <form action="https://docs.google.com/forms/d/e/1FAIpQLSdCSG_gnWsYpYDdgepA9ZamJerMLjPLuZuGhHrJEJ5eMLnsLA/formResponse" method="post"> 
+      <label for="Name*">Name</label>
         <input type="text" id="Name*" name="entry.2005620554" placeholder="Your name.." required>
         <label for="Affiliation">Affiliation</label>
         <input type="text" id="Affiliation" name="entry.821743707" placeholder="Your affiliation...">
-        <label for="Email">Email Address</label> </br>
+        <label for="Email">Email Address </label> 
+        <br>
         <input type="email" id="Email Address*" name="entry.1045781291" placeholder="Your email..." required>
-        </br>
+        <br>
         <label for="Phone">Phone Number</label>
         <input type="text" id="Phone" name="entry.1166974658" placeholder="Your phone number...">
         <label for="meassage*">Message</label>
