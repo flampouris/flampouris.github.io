@@ -1,6 +1,6 @@
 ---
 title: "positions"
-layout: gridlay
+layout: textlay
 sitemap: false
 permalink: /positions/
 ---
