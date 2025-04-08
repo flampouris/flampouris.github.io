@@ -1,6 +1,6 @@
 ---
 title: "positions"
-layout: textlay
+layout: 
 sitemap: false
 permalink: /positions/
 ---
