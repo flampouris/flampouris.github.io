@@ -31,6 +31,8 @@ nav_pages:
   - name: about
   - name: experience
   - name: publications
+  - name: marine observations
+    url: /marine_obs_app/
   - name: contact 
 #  - name: research
 #  - name: software
